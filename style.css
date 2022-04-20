@@ -24,7 +24,6 @@ body{
     border-bottom-right-radius: 9px;
     width: 12vw;
     height: 5vh;
-    z-index: 2;
     position: absolute;
     margin-top: -9vh;
     box-shadow:  6px  5px 0 0  rgb(42, 42, 42),-0.3px  5px 0 0  rgb(42, 42, 42);
@@ -59,7 +58,7 @@ body{
 
 
 #chart:hover{
-    transform:translateX(40px);
+    transform:translateX(20px);
     color: black;
     
 }
